@@ -125,19 +125,15 @@ src/
 
 1. **Canvas**  
    ![Main View](./screenshots/blankCanvas.png)
-   <img src="./screenshots/blankCanvas.png" width="400">
 
 2. **Canvas with drawing and labels**  
    ![Main View](./screenshots/canvasWithDrawingAndLabels.png)
-   <img src="./screenshots/canvasWithDrawingAndLabels.png" width="400">
 
 3. **Canvas with drawing and without labels**  
    ![Main View](./screenshots/canvasWithDrawingWithoutLabels.png)
-   <img src="./screenshots/canvasWithDrawingWithoutLabels.png" width="400">
 
 4. **Help View**  
    ![Main View](./screenshots/helpSection.png)
-   <img src="./screenshots/helpSection.png" width="400">
 
 ## Contributing
 
